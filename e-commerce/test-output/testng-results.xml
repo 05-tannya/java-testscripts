@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="5" failed="1" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[https://www.saucedemo.com/inventory.html]]>
+    </line>
+    <line>
+      <![CDATA[Image is presentnull]]>
+    </line>
+    <line>
+      <![CDATA[Image is presenthttps://www.saucedemo.com/static/media/sauce-backpack-1200x1500.0a0b85a3.jpg]]>
+    </line>
+    <line>
+      <![CDATA[Image is presentnull]]>
+    </line>
+    <line>
+      <![CDATA[Image is presenthttps://www.saucedemo.com/static/media/bike-light-1200x1500.37c843b0.jpg]]>
+    </line>
+    <line>
+      <![CDATA[Image is presentnull]]>
+    </line>
+    <line>
+      <![CDATA[Image is presenthttps://www.saucedemo.com/static/media/bolt-shirt-1200x1500.c2599ac5.jpg]]>
+    </line>
+    <line>
+      <![CDATA[Image is presentnull]]>
+    </line>
+    <line>
+      <![CDATA[Image is presenthttps://www.saucedemo.com/static/media/sauce-pullover-1200x1500.51d7ffaf.jpg]]>
+    </line>
+    <line>
+      <![CDATA[Image is presentnull]]>
+    </line>
+    <line>
+      <![CDATA[Image is presenthttps://www.saucedemo.com/static/media/red-onesie-1200x1500.2ec615b2.jpg]]>
+    </line>
+    <line>
+      <![CDATA[Image is presentnull]]>
+    </line>
+    <line>
+      <![CDATA[Image is presenthttps://www.saucedemo.com/static/media/red-tatt-1200x1500.30dadef4.jpg]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-12-31T14:43:32 IST" name="Default suite" finished-at="2023-12-31T14:43:51 IST" duration-ms="19034">
+    <groups>
+    </groups>
+    <test started-at="2023-12-31T14:43:32 IST" name="Default test" finished-at="2023-12-31T14:43:51 IST" duration-ms="19034">
+      <class name="ecom.page.test.inventoryPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:ecom.page.test.inventoryPageTest@a1153bc]" started-at="2023-12-31T14:43:32 IST" name="setUp" finished-at="2023-12-31T14:43:37 IST" duration-ms="4440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ValidateHomePageUrlTest()[pri:1, instance:ecom.page.test.inventoryPageTest@a1153bc]" started-at="2023-12-31T14:43:37 IST" name="ValidateHomePageUrlTest" finished-at="2023-12-31T14:43:37 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[https://www.saucedemo.com/inventory.html]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidateHomePageUrlTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ecom.page.test.inventoryPageTest@a1153bc]" started-at="2023-12-31T14:43:37 IST" name="tearDown" finished-at="2023-12-31T14:43:37 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:ecom.page.test.inventoryPageTest@a1153bc]" started-at="2023-12-31T14:43:37 IST" name="setUp" finished-at="2023-12-31T14:43:39 IST" duration-ms="2571" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ValidataItemNameTest()[pri:2, instance:ecom.page.test.inventoryPageTest@a1153bc]" started-at="2023-12-31T14:43:39 IST" name="ValidataItemNameTest" finished-at="2023-12-31T14:43:39 IST" duration-ms="97" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidataItemNameTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ecom.page.test.inventoryPageTest@a1153bc]" started-at="2023-12-31T14:43:39 IST" name="tearDown" finished-at="2023-12-31T14:43:39 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:ecom.page.test.inventoryPageTest@a1153bc]" started-at="2023-12-31T14:43:39 IST" name="setUp" finished-at="2023-12-31T14:43:42 IST" duration-ms="2519" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ValidateImagePresenceTest()[pri:3, instance:ecom.page.test.inventoryPageTest@a1153bc]" started-at="2023-12-31T14:43:42 IST" name="ValidateImagePresenceTest" finished-at="2023-12-31T14:43:42 IST" duration-ms="335" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Image is presentnull]]>
+            </line>
+            <line>
+              <![CDATA[Image is presenthttps://www.saucedemo.com/static/media/sauce-backpack-1200x1500.0a0b85a3.jpg]]>
+            </line>
+            <line>
+              <![CDATA[Image is presentnull]]>
+            </line>
+            <line>
+              <![CDATA[Image is presenthttps://www.saucedemo.com/static/media/bike-light-1200x1500.37c843b0.jpg]]>
+            </line>
+            <line>
+              <![CDATA[Image is presentnull]]>
+            </line>
+            <line>
+              <![CDATA[Image is presenthttps://www.saucedemo.com/static/media/bolt-shirt-1200x1500.c2599ac5.jpg]]>
+            </line>
+            <line>
+              <![CDATA[Image is presentnull]]>
+            </line>
+            <line>
+              <![CDATA[Image is presenthttps://www.saucedemo.com/static/media/sauce-pullover-1200x1500.51d7ffaf.jpg]]>
+            </line>
+            <line>
+              <![CDATA[Image is presentnull]]>
+            </line>
+            <line>
+              <![CDATA[Image is presenthttps://www.saucedemo.com/static/media/red-onesie-1200x1500.2ec615b2.jpg]]>
+            </line>
+            <line>
+              <![CDATA[Image is presentnull]]>
+            </line>
+            <line>
+              <![CDATA[Image is presenthttps://www.saucedemo.com/static/media/red-tatt-1200x1500.30dadef4.jpg]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidateImagePresenceTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ecom.page.test.inventoryPageTest@a1153bc]" started-at="2023-12-31T14:43:42 IST" name="tearDown" finished-at="2023-12-31T14:43:42 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:ecom.page.test.inventoryPageTest@a1153bc]" started-at="2023-12-31T14:43:42 IST" name="setUp" finished-at="2023-12-31T14:43:45 IST" duration-ms="2621" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="AddItemsToCartTest()[pri:4, instance:ecom.page.test.inventoryPageTest@a1153bc]" started-at="2023-12-31T14:43:45 IST" name="AddItemsToCartTest" finished-at="2023-12-31T14:43:45 IST" duration-ms="462" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddItemsToCartTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ecom.page.test.inventoryPageTest@a1153bc]" started-at="2023-12-31T14:43:45 IST" name="tearDown" finished-at="2023-12-31T14:43:45 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:ecom.page.test.inventoryPageTest@a1153bc]" started-at="2023-12-31T14:43:45 IST" name="setUp" finished-at="2023-12-31T14:43:48 IST" duration-ms="2608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="FilterSorting()[pri:5, instance:ecom.page.test.inventoryPageTest@a1153bc]" started-at="2023-12-31T14:43:48 IST" name="FilterSorting" finished-at="2023-12-31T14:43:48 IST" duration-ms="181" status="FAIL">
+          <exception class="java.lang.NullPointerException">
+            <message>
+              <![CDATA[Cannot invoke "org.openqa.selenium.support.ui.WebDriverWait.until(java.util.function.Function)" because "this.wait" is null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.support.ui.WebDriverWait.until(java.util.function.Function)" because "this.wait" is null
+at ecom.page.test.inventoryPageTest.FilterSorting(inventoryPageTest.java:108)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FilterSorting -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ecom.page.test.inventoryPageTest@a1153bc]" started-at="2023-12-31T14:43:48 IST" name="tearDown" finished-at="2023-12-31T14:43:48 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:ecom.page.test.inventoryPageTest@a1153bc]" started-at="2023-12-31T14:43:48 IST" name="setUp" finished-at="2023-12-31T14:43:51 IST" duration-ms="3052" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="MoveToCartTest()[pri:6, instance:ecom.page.test.inventoryPageTest@a1153bc]" started-at="2023-12-31T14:43:51 IST" name="MoveToCartTest" finished-at="2023-12-31T14:43:51 IST" duration-ms="73" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MoveToCartTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ecom.page.test.inventoryPageTest@a1153bc]" started-at="2023-12-31T14:43:51 IST" name="tearDown" finished-at="2023-12-31T14:43:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ecom.page.test.inventoryPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
